@@ -1,5 +1,6 @@
 
-# DIRT: a fast Differentiable Renderer for TensorFlow
+Original repo at: https://github.com/pmh47/dirt
+# Fork of "DIRT: a fast Differentiable Renderer for TensorFlow"
 
 DIRT is a library for TensorFlow, that provides operations for rendering 3D meshes.
 It supports computing derivatives through geometry, lighting, and other parameters.
